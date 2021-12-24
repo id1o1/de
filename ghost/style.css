@@ -1,0 +1,15 @@
+html, body{
+    background-image: url("../img/ghost.jpg");
+    width: 100%;
+    height: auto;
+    margin:0;
+    padding:0;
+    background-color:hsl(195, 100%, 7%);
+    margin:0 auto;
+    display:block;
+}
+
+#canvas{
+    margin:0 auto;
+    display:block;
+}
